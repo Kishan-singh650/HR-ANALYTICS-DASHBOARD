@@ -1,7 +1,6 @@
 📊 HR Analytics Dashboard
 📸 Dashboard Screenshot
-
-![HR Analytics Dashboard Screenshot]("Screenshot 2025-08-21 225754.png")
+["C:\Users\Hp\Pictures\Screenshots\Screenshot 2025-08-21 225754.png"]
 
 📌 Project Overview
 
